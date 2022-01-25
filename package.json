@@ -22,7 +22,7 @@
     "@fontsource/roboto-condensed": "^4.5.0",
     "@fontsource/unna": "^4.5.0",
     "@mui/icons-material": "^5.2.5",
-    "@mui/material": "^5.2.6",
+    "@mui/material": "^5.2.7",
     "formik": "^2.2.9",
     "gatsby": "^4.4.0",
     "gatsby-plugin-image": "^2.4.0",
